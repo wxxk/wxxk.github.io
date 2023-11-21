@@ -2,7 +2,7 @@
 layout: post
 title: "테스트"
 date: 2023-11-17 03:30:36 +0900
-categories: 카테고리?
+categories: jekyll update
 ---
 
 올라가라
