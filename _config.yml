@@ -51,10 +51,12 @@ author:
 menu:
   - title:             Develop
     url:               /develop/
-  - title:             CS
-    url:               /cs/
+  - title:             Documentation
+    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             CS
+    url:               /cs/
   - title:             Algorithm
     url:               /algorithm/
 
