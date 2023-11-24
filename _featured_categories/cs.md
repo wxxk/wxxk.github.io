@@ -11,6 +11,7 @@ permalink: /cs/
 ## Getting started
 
 - [test]{:.heading.flip-title}
+- [test]{:.heading.flip-title}
 - [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 - [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 - [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -33,6 +34,7 @@ permalink: /cs/
   {:.related-posts.faded}
 
 [test]: test.md
+[test]: _posts/test.md
 [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
