@@ -55,8 +55,6 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
-  - title:             CS
-    url:               /cs/
   - title:             Algorithm
     url:               /algorithm/
 
